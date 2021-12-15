@@ -12,6 +12,5 @@ Required parameters:<br>
 To use:
   Simply click the "launch binder" button below. Allow a moment for the tool to launch. Then input your parameters and click "run calculation."
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SpencerRW117/KatanaCalculator/HEAD?urlpath=voila%2Frender%2Fkatana_calc.ipynb)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/DAOCalculator/DAOCalculator/HEAD?urlpath=voila%2Frender%2Fdao_calc.ipynb)
 
